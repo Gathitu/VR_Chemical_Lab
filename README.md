@@ -1,6 +1,6 @@
 # VR Chemical Lab
 
-This is a showcase of an aplication that simulates physical Chenical lab experiences in VR.
+This is a showcase of an application that simulates physical Chemical lab experiences in VR.
 
 Work involved:
 - 3D Modelling and Texturing
