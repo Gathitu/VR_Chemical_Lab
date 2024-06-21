@@ -21,14 +21,14 @@ This is how I progressed as I worked on the application:
 
 **<p align="center">1. Initial Overview of Lab</p>**
 
-Work involved entails textured 3D Models, User Locomotion, Grabbing of objects, Liquid flow Physics, Hinge and Sliding joints Physics.
+Work involved includes 3D Design, Modelling and Texturing, User Locomotion, Grabbing of objects, Liquid flow Physics, Hinge and Sliding joints Physics.
 
 [Video](https://drive.google.com/file/d/19eXvoJm427AvY8Gdn8m8y84FnTS1szix/preview)
 
 
 **<p align="center">2. Use of a Bunsen Burner in the VR Lab</p>**
 
-Work involved entails Grabbing of objects, Fire particles Physics, Hinge and Sliding joints Physics and UI in World-space
+Work involved includes Grabbing of objects, Fire particles Physics, Hinge and Sliding joints Physics and UI in World-space
 
 [Video](https://drive.google.com/file/d/19bRIKP25XZta2woXQwKUK6Xa5Zq8-7wB/preview)
 
