@@ -21,16 +21,16 @@ This is how I progressed as I worked on the application:
 
 **<p align="center">1. Initial Overview of Lab</p>**
 
-Entails textured 3D Models, User Locomotion, Grabbing of objects, Liquid flow Physics, Hinge and Sliding joints Physics.
+Work involved entails textured 3D Models, User Locomotion, Grabbing of objects, Liquid flow Physics, Hinge and Sliding joints Physics.
 
-https://drive.google.com/file/d/19eXvoJm427AvY8Gdn8m8y84FnTS1szix/preview
+[Video](https://drive.google.com/file/d/19eXvoJm427AvY8Gdn8m8y84FnTS1szix/preview)
 
 
 **<p align="center">2. Use of a Bunsen Burner in the VR Lab</p>**
 
-Entails Grabbing of objects, Fire particles Physics, Hinge and Sliding joints Physics and UI in World-space
+Work involved entails Grabbing of objects, Fire particles Physics, Hinge and Sliding joints Physics and UI in World-space
 
-https://drive.google.com/file/d/19bRIKP25XZta2woXQwKUK6Xa5Zq8-7wB/preview
+[Video](https://drive.google.com/file/d/19bRIKP25XZta2woXQwKUK6Xa5Zq8-7wB/preview)
 
 
 **<p align="center">3. Multi-user Networking</p>**
@@ -38,7 +38,7 @@ https://drive.google.com/file/d/19bRIKP25XZta2woXQwKUK6Xa5Zq8-7wB/preview
 In this video, you'll get to view the lab in Third-Person View
 The networking entails Position and rotation synchronization of User's body avatar and scene Objects over a network.
 
-https://drive.google.com/file/d/19f9sgdtgXPQIeNO-1o3_6dPGv8gQjOmL/preview
+[Video](https://drive.google.com/file/d/19f9sgdtgXPQIeNO-1o3_6dPGv8gQjOmL/preview)
 
 
 
@@ -46,7 +46,7 @@ https://drive.google.com/file/d/19f9sgdtgXPQIeNO-1o3_6dPGv8gQjOmL/preview
 
 In this video, you'll get to view how the whole app works; setting User's details, connecting to another user's device in your LAN; and finally being immersed into the VR Chemical Lab where one can get to see and interact with other users.
 
-https://drive.google.com/file/d/19mJw3GB_uzV9XyhcjXfdJBNGYw0CMILD/preview
+[Video](https://drive.google.com/file/d/19mJw3GB_uzV9XyhcjXfdJBNGYw0CMILD/preview)
 
 
 
